@@ -1,0 +1,23 @@
+.jumbotron {
+	background-image: url(gambar/unnamed.jpg);
+	background-size: cover;
+	height: 1000px;
+	text-align: center;
+	margin-top: -120px;
+}
+
+.jumbotron .display-4 {
+	font-family: verdana;
+	font-size: 80px;
+	margin-top: 250px;
+}
+
+.jumbotron p {
+	font-size: 35px;
+}
+
+.jumbotron hr {
+	border-color: #000000;
+	width: 750px;
+	border-width: 5px;
+}
